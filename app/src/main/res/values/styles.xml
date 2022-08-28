@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textStyleForRadioButton">
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+        <item name="android:textColor">#393737</item>
+    </style>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalLoadApp</string>
+
+
+    <string name="download_image_content_description">Download Image For The Application</string>
+    <string name="glide_radio_button_text">Glide-Image Loading Library by Blump Tech</string>
+    <string name="app_download_radio_button_text">LoadApp-Current Repository by Udacity</string>
+    <string name="retrofit_download_radio_button_text">Retrofit - Type-Safe HTTP Client For Android and Java by Square, inc</string>
+    <string name="download">Download</string>
+    <string name="file_name">File Name:</string>
+    <string name="status">Status:</string>
+    <string name="this_is_file_name">this is file name</string>
+    <string name="success">Success</string>
+    <string name="ok">Ok</string>
+
+
+</resources>
